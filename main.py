@@ -1,3 +1,4 @@
+# Лесс
 def my_super_function():
     print("what an awesome print!")
 
